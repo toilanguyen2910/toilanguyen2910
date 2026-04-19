@@ -71,9 +71,9 @@ Welcome to my GitHub profile! I'm a passionate developer and student at **Hoc Vi
 
 ## 💡 Fun Facts
 
-- ⚡ Love solving complex coding challenges
-- 🎮 Tech enthusiast and lifelong learner
-- ☕ Coffee-powered developer
+- ⚡ Energy is sport
+- 🎮 I like to play videogame
+- ☕ What IDK
 
 ---
 
