@@ -1,53 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="650" height="70" viewBox="0 0 650 70">
-  <style>
-    @keyframes flicker {
-      /* ── Sáng ổn định ── */
-      0%    { opacity: 1; }
-      18%   { opacity: 1; }
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120">
+  <defs>
+    <!-- Import font Nabla từ Google Fonts -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Nabla&amp;display=swap');
 
-      /* ── Chập chờn lần 1 (nháy nhanh 2 lần) ── */
-      19%   { opacity: 0; }
-      20%   { opacity: 1; }
-      21%   { opacity: 0; }
-      22%   { opacity: 0.4; }
-      23%   { opacity: 1; }
+      @keyframes flicker {
+        /* ── Sáng ổn định ── */
+        0%    { opacity: 1; }
+        18%   { opacity: 1; }
 
-      /* ── Dừng — sáng ổn định ── */
-      24%   { opacity: 1; }
-      52%   { opacity: 1; }
+        /* ── Chập chờn lần 1 ── */
+        19%   { opacity: 0.1; }
+        20%   { opacity: 1; }
+        21%   { opacity: 0; }
+        22%   { opacity: 0.5; }
+        23%   { opacity: 1; }
 
-      /* ── Chập chờn lần 2 (nháy nhanh 3 lần) ── */
-      53%   { opacity: 0; }
-      54%   { opacity: 0.3; }
-      55%   { opacity: 0; }
-      56%   { opacity: 1; }
-      57%   { opacity: 0; }
-      58%   { opacity: 1; }
+        /* ── Dừng — sáng ổn định ── */
+        24%   { opacity: 1; }
+        52%   { opacity: 1; }
 
-      /* ── Dừng — sáng ổn định đến hết chu kỳ ── */
-      59%   { opacity: 1; }
-      100%  { opacity: 1; }
-    }
+        /* ── Chập chờn lần 2 ── */
+        53%   { opacity: 0; }
+        54%   { opacity: 0.4; }
+        55%   { opacity: 0; }
+        56%   { opacity: 1; }
+        57%   { opacity: 0.1; }
+        58%   { opacity: 1; }
 
-    .static {
-      fill: #808080;
-      font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
-      font-size: 36px;
-      font-weight: 600;
-      letter-spacing: 2px;
-    }
+        /* ── Dừng — sáng ổn định đến hết chu kỳ ── */
+        59%   { opacity: 1; }
+        100%  { opacity: 1; }
+      }
 
-    .flicker {
-      fill: #b0b0b0;
-      font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
-      font-size: 36px;
-      font-weight: 800;
-      letter-spacing: 4px;
-      animation: flicker 4s infinite;
-    }
-  </style>
+      .text-container {
+        font-family: 'Nabla', system-ui, sans-serif;
+        font-size: 50px;
+        /* Áp dụng filter grayscale để biến font Nabla sặc sỡ thành tông màu xám/bạc */
+        filter: grayscale(100%) contrast(1.2);
+      }
 
-  <text x="325" y="42" dominant-baseline="middle" text-anchor="middle">
+      .static {
+        opacity: 0.6; /* Làm chữ MY NAME IS tối hơn một chút */
+      }
+
+      .flicker {
+        animation: flicker 4s infinite;
+      }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="transparent" />
+
+  <text x="400" y="65" dominant-baseline="middle" text-anchor="middle" class="text-container">
     <tspan class="static">MY NAME IS </tspan><tspan class="flicker">NGUYEN</tspan>
   </text>
 </svg>
