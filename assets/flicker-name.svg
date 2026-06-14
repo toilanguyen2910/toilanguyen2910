@@ -35,19 +35,28 @@
 
       .text-container {
         font-family: 'Nabla', system-ui, sans-serif;
-        font-size: 60px; /* Tăng 20% từ 50px lên 60px */
-        /* Grayscale hoàn toàn rồi tăng mạnh độ sáng (brightness) và độ tương phản (contrast) để có màu trắng/bạc sáng */
-        filter: grayscale(100%) brightness(2.2) contrast(1.5);
+        font-size: 60px;
+        /* Ép toàn bộ hệ màu của font Nabla về màu trắng bạc cực sáng bằng SVG filter */
+        filter: url(#pure-white-filter);
       }
 
       .static {
-        opacity: 0.55; /* Làm chữ MY NAME IS xám nhẹ hơn */
+        opacity: 0.6; /* Làm cụm MY NAME IS tối màu hơn NGUYEN một chút để tạo điểm nhấn */
       }
 
       .flicker {
         animation: flicker 4s infinite;
       }
     </style>
+
+    <!-- Filter ma trận màu ép mọi kênh màu về giá trị trắng sáng và xám bạc -->
+    <filter id="pure-white-filter">
+      <feColorMatrix type="matrix" values="
+        0 1 1 0 1
+        1 0 1 0 1
+        1 1 0 0 1
+        0 0 0 1 0" />
+    </filter>
   </defs>
 
   <rect width="100%" height="100%" fill="transparent" />
