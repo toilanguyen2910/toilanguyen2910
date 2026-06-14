@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="150" viewBox="0 0 960 150">
   <defs>
     <!-- Import font Nabla từ Google Fonts -->
     <style>
@@ -35,13 +35,13 @@
 
       .text-container {
         font-family: 'Nabla', system-ui, sans-serif;
-        font-size: 50px;
-        /* Áp dụng filter grayscale để biến font Nabla sặc sỡ thành tông màu xám/bạc */
-        filter: grayscale(100%) contrast(1.2);
+        font-size: 60px; /* Tăng 20% từ 50px lên 60px */
+        /* Grayscale hoàn toàn rồi tăng mạnh độ sáng (brightness) và độ tương phản (contrast) để có màu trắng/bạc sáng */
+        filter: grayscale(100%) brightness(2.2) contrast(1.5);
       }
 
       .static {
-        opacity: 0.6; /* Làm chữ MY NAME IS tối hơn một chút */
+        opacity: 0.55; /* Làm chữ MY NAME IS xám nhẹ hơn */
       }
 
       .flicker {
@@ -52,7 +52,7 @@
 
   <rect width="100%" height="100%" fill="transparent" />
 
-  <text x="400" y="65" dominant-baseline="middle" text-anchor="middle" class="text-container">
+  <text x="480" y="80" dominant-baseline="middle" text-anchor="middle" class="text-container">
     <tspan class="static">MY NAME IS </tspan><tspan class="flicker">NGUYEN</tspan>
   </text>
 </svg>
