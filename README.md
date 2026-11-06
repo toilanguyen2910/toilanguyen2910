@@ -126,17 +126,6 @@ a Zalo message, and a handoff at the library.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=666666&height=1&section=footer" />
 </p>
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=toilanguyen2910&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=999999&text_color=999999" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toilanguyen2910&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=666666&height=1&section=footer" />
-</p>
-
 ## 📬 Connect
 
 <p align="center">
