@@ -4,7 +4,7 @@
 
 <p align="center">
   <sub><b>Khôi Nguyên Vũ Hoàng</b> · Nguyen JN</sub><br />
-  <sub>Vibe coder · Ship fast with AI agents · Then make it hold up</sub>
+  
 </p>
 
 <p align="center">
@@ -19,58 +19,20 @@
 
 ## 👋 About
 
-I'm a **vibe coder** based in **Ho Chi Minh City, Vietnam**. I build by describing what I want,
-letting an AI agent write the first pass, then tightening it until it's something I'd actually
-put my name on.
+Hi my name is Nguyen , i live in Ho Chi Minh City and i'm study in Vietnam Aviation Academy.
 
-That's not code golf and it's not autopilot. The agent types fast; **I own the design system,
-the data model, and the decisions about what ships.** Most of my time goes into the parts
-generation is worst at: picking the right boundary, killing a feature that doesn't earn its
-place, and proving the thing works.
 
-- 🚀 **Build fast, verify faster** — working demo first, then tests, then polish
-- 🎨 **Design tokens before components** — AI is great at filling in a system, bad at inventing one
-- 🧱 **Small, boring stacks** — fewer moving parts means fewer places for a hallucination to hide
-- 🧭 **Spec-driven** — a written brief beats a clever prompt
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=666666&height=1&section=footer" />
 </p>
 
-## 🧭 How I vibe code
-
-| Rule | Why |
-|---|---|
-| **Write the spec first** | A short brief with schema, routes, and states gets a usable first pass; a vague prompt gets a rewrite. |
-| **One concern per session** | Mixing UI, auth, and DB in one prompt produces code that compiles but doesn't fit. |
-| **Read every diff** | Generated code is a draft, not a commit. I merge what I understand. |
-| **Lock the design system** | Colors, spacing, and motion live in tokens — the agent composes, it doesn't improvise. |
-| **Verify before declaring done** | A response saying "done" is a hypothesis. A passing test is evidence. |
-| **Ship the boring solution** | The clever one costs three sessions to debug later. |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=666666&height=1&section=footer" />
 </p>
 
 ## ✈️ VAA Share
-
-> **A student-to-student exchange platform for the Vietnam Aviation Academy (VAA).**
-> Give away or swap textbooks, laptops, and dorm essentials — free, local, no money involved.
-
-Built for a real campus need: students with spare aviation textbooks and no clean way to hand
-them to the people who need them. No marketplace fees, no shipping, no checkout — just a listing,
-a Zalo message, and a handoff at the library.
-
-**What it does**
-
-- 📚 **Listings** for textbooks, electronics, dorm gear — free (`0đ`) or swap
-- 🛡️ **Admin moderation** — every post starts `PENDING`, reviewed before it goes public
-- 📲 **One-click Zalo contact** — no in-app chat, no middleman
-- 🚩 **Reporting & account lockout** — students report violations, admins act
-- 🎛️ **Admin console** — dashboard, user management, listing queue, categories, reports
-- 🗂️ **Docs in the repo** — ERD (Mermaid), full REST API reference, a 5-minute defense script
-- ⚡ **One-click launcher** — `RUN_VAA_SHARE.bat` boots MySQL check, backend, frontend, and the browser
-
 **Stack**
 
 | Layer | Choice |
