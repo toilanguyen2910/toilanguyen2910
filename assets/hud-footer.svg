@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="72" viewBox="0 0 960 72" fill="none">
+  <defs>
+    <linearGradient id="footGrad" x1="0" y1="0" x2="960" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#070A0F" />
+      <stop offset="50%" stop-color="#0D1420" />
+      <stop offset="100%" stop-color="#070A0F" />
+    </linearGradient>
+    <style>
+      .mono {
+        font-family: ui-monospace, 'JetBrains Mono', 'Fira Code', SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      }
+    </style>
+  </defs>
+  <rect x="8" y="8" width="944" height="56" rx="8" fill="url(#footGrad)" stroke="#1E293B" stroke-width="1" />
+  <path d="M8 20 V8 H20" stroke="#38BDF8" stroke-width="1.5" />
+  <path d="M940 8 H952 V20" stroke="#38BDF8" stroke-width="1.5" />
+  <path d="M8 52 V64 H20" stroke="#38BDF8" stroke-width="1.5" />
+  <path d="M940 64 H952 V52" stroke="#38BDF8" stroke-width="1.5" />
+
+  <text x="480" y="32" text-anchor="middle" fill="#CBD5E1" font-size="12" letter-spacing="0.8" class="mono">
+    "Always up for talking vibe-coding workflows, prompt architecture, or where agents still fall short."
+  </text>
+  <text x="480" y="50" text-anchor="middle" fill="#38BDF8" font-size="10.5" letter-spacing="1.5" class="mono">
+    END OF TRANSMISSION  ·  TOILANGUYEN2910  ·  HO CHI MINH CITY
+  </text>
+</svg>
