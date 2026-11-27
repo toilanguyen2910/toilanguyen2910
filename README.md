@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/cockpit-hud.svg" alt="Khôi Nguyên Vũ Hoàng — Aero-Cockpit Telemetry HUD" />
+  <img src="./assets/cockpit-hud.svg" alt="Vũ Hoàng Khôi Nguyên — Aero-Cockpit Telemetry HUD" />
 </p>
 
 <p align="center">
