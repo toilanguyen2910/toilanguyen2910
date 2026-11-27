@@ -17,10 +17,7 @@
   <path d="M6 50 V62 H18" stroke="#38BDF8" stroke-width="1.5" />
   <path d="M882 62 H894 V50" stroke="#38BDF8" stroke-width="1.5" />
 
-  <text x="450" y="30" text-anchor="middle" fill="#CBD5E1" font-size="11.5" letter-spacing="0.6" class="mono">
-    "Always up for talking vibe-coding workflows, prompt architecture, or where agents still fall short."
-  </text>
-  <text x="450" y="48" text-anchor="middle" fill="#38BDF8" font-size="10" letter-spacing="1.5" class="mono">
-    END OF TRANSMISSION  ·  TOILANGUYEN2910  ·  HO CHI MINH CITY
+  <text x="450" y="39" text-anchor="middle" fill="#38BDF8" font-size="11" letter-spacing="1.8" class="mono">
+    TOILANGUYEN2910  //  HO CHI MINH CITY · VIETNAM
   </text>
 </svg>

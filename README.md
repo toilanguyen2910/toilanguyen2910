@@ -8,8 +8,6 @@
 
 <p align="center">
   <a href="#vaa-share"><img src="https://img.shields.io/badge/NOW_BUILDING-VAA_SHARE-080B11?style=for-the-badge&labelColor=0F172A&color=38BDF8" alt="Now building VAA Share" /></a>
-  <a href="https://github.com/toilanguyen2910?tab=followers"><img src="https://img.shields.io/github/followers/toilanguyen2910?style=for-the-badge&label=FOLLOWERS&labelColor=0F172A&color=1E293B&logo=github&logoColor=E2E8F0" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=toilanguyen2910&style=for-the-badge&label=PROFILE+VIEWS&color=0F172A&base=1" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -20,36 +18,7 @@
 
 ### `01 //` ✈️ Flagship System — VAA Share
 
-> **Dark Cockpit Aero-Tech HUD** · Full-stack academic resource sharing platform built for Vietnam Aviation Academy.
-
-<table>
-  <tr>
-    <td width="160"><b>Layer</b></td>
-    <td><b>Architecture &amp; Choices</b></td>
-  </tr>
-  <tr>
-    <td><code>FRONTEND</code></td>
-    <td>React 19 + Vite + React Router · Hand-rolled CSS design system (WCAG 2.2 AA)</td>
-  </tr>
-  <tr>
-    <td><code>BACKEND</code></td>
-    <td>Node.js 22 + Express (MVC: controllers, routes, role middleware, rate limiting)</td>
-  </tr>
-  <tr>
-    <td><code>DATABASE</code></td>
-    <td>MySQL 8 / MariaDB (<code>utf8mb4</code>) · 8 normalized tables via <code>database/vaa_share.sql</code></td>
-  </tr>
-  <tr>
-    <td><code>SECURITY</code></td>
-    <td>JWT + Bcrypt (10 rounds) · Multer uploads (JPG/PNG/WEBP, 5 MB cap) · CSP headers</td>
-  </tr>
-  <tr>
-    <td><code>DEPLOY</code></td>
-    <td>Vercel (SPA fallback + reverse proxy) · Signed commits (SSH/GPG) on <code>main</code></td>
-  </tr>
-</table>
-
-<sub>🔒 Core repository is private — happy to walk through the architecture or grant access on request.</sub>
+> 🔒 **Private Project** · Academic resource sharing platform built for Vietnam Aviation Academy.
 
 <p align="center">
   <img src="./assets/hud-divider.svg" alt="" />
