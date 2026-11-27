@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="24" viewBox="0 0 960 24" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="20" viewBox="0 0 900 20" fill="none">
   <defs>
-    <linearGradient id="lineL" x1="0" y1="12" x2="450" y2="12" gradientUnits="userSpaceOnUse">
+    <linearGradient id="lineL" x1="0" y1="10" x2="420" y2="10" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
       <stop offset="70%" stop-color="#1E293B" stop-opacity="1" />
       <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.85" />
     </linearGradient>
-    <linearGradient id="lineR" x1="510" y1="12" x2="960" y2="12" gradientUnits="userSpaceOnUse">
+    <linearGradient id="lineR" x1="480" y1="10" x2="900" y2="10" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.85" />
       <stop offset="30%" stop-color="#1E293B" stop-opacity="1" />
       <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
     </linearGradient>
   </defs>
-  <line x1="20" y1="12" x2="454" y2="12" stroke="url(#lineL)" stroke-width="1" />
-  <line x1="506" y1="12" x2="940" y2="12" stroke="url(#lineR)" stroke-width="1" />
-  <polygon points="480,6 486,12 480,18 474,12" stroke="#38BDF8" stroke-width="1.2" fill="#0B0F17" />
-  <circle cx="464" cy="12" r="1.5" fill="#64748B" />
-  <circle cx="496" cy="12" r="1.5" fill="#64748B" />
+  <line x1="16" y1="10" x2="424" y2="10" stroke="url(#lineL)" stroke-width="1" />
+  <line x1="476" y1="10" x2="884" y2="10" stroke="url(#lineR)" stroke-width="1" />
+  <polygon points="450,4 456,10 450,16 444,10" stroke="#38BDF8" stroke-width="1.2" fill="#080B11" />
+  <circle cx="434" cy="10" r="1.4" fill="#64748B" />
+  <circle cx="466" cy="10" r="1.4" fill="#64748B" />
 </svg>

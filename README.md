@@ -3,22 +3,20 @@
 </p>
 
 <p align="center">
-  <img src="./assets/hud-identity.svg" alt="Khôi Nguyên Vũ Hoàng · Nguyen JN — System Telemetry" />
+  <img src="./assets/cockpit-hud.svg" alt="Khôi Nguyên Vũ Hoàng — Aero-Cockpit Telemetry HUD" />
 </p>
 
 <p align="center">
-  <a href="#-flagship-system--vaa-share"><img src="https://img.shields.io/badge/NOW_BUILDING-VAA_SHARE-0B0F17?style=for-the-badge&labelColor=0F172A&color=38BDF8&logo=airplane&logoColor=38BDF8" alt="Now building VAA Share" /></a>
+  <a href="#vaa-share"><img src="https://img.shields.io/badge/NOW_BUILDING-VAA_SHARE-080B11?style=for-the-badge&labelColor=0F172A&color=38BDF8" alt="Now building VAA Share" /></a>
   <a href="https://github.com/toilanguyen2910?tab=followers"><img src="https://img.shields.io/github/followers/toilanguyen2910?style=for-the-badge&label=FOLLOWERS&labelColor=0F172A&color=1E293B&logo=github&logoColor=E2E8F0" alt="Followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=toilanguyen2910&style=for-the-badge&label=PROFILE+VIEWS&color=0F172A&base=1" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="./assets/terminal-bio.svg" alt="Terminal Bio" />
-</p>
-
-<p align="center">
   <img src="./assets/hud-divider.svg" alt="" />
 </p>
+
+<a id="vaa-share"></a>
 
 ### `01 //` ✈️ Flagship System — VAA Share
 
@@ -100,33 +98,33 @@
 
 <p>
   <b>LANGUAGES</b><br />
-  <img src="https://img.shields.io/badge/JavaScript-0B0F17?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0B0F17?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-0B0F17?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-0B0F17?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-0B0F17?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-080B11?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-080B11?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-080B11?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-080B11?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-080B11?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
 </p>
 
 <p>
   <b>FRAMEWORKS &amp; INFRASTRUCTURE</b><br />
-  <img src="https://img.shields.io/badge/React_19-0B0F17?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/Vite-0B0F17?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
-  <img src="https://img.shields.io/badge/Node.js_22-0B0F17?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js 22" />
-  <img src="https://img.shields.io/badge/Express-0B0F17?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-0B0F17?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MySQL_8-0B0F17?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL 8" />
-  <img src="https://img.shields.io/badge/Playwright-0B0F17?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Three.js-0B0F17?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Vercel-0B0F17?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+  <img src="https://img.shields.io/badge/React_19-080B11?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/Vite-080B11?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Node.js_22-080B11?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js 22" />
+  <img src="https://img.shields.io/badge/Express-080B11?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-080B11?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MySQL_8-080B11?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL 8" />
+  <img src="https://img.shields.io/badge/Playwright-080B11?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Three.js-080B11?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Vercel-080B11?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
 </p>
 
 <p>
   <b>AI AGENTS &amp; VERIFICATION</b><br />
-  <img src="https://img.shields.io/badge/Claude_Code-0B0F17?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex_CLI-0B0F17?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="Codex CLI" />
-  <img src="https://img.shields.io/badge/Gemini_CLI-0B0F17?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini CLI" />
-  <img src="https://img.shields.io/badge/Cursor-0B0F17?style=for-the-badge&logo=cursor&logoColor=FFFFFF" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Signed_Commits-0B0F17?style=for-the-badge&logo=git&logoColor=F05032" alt="Signed Commits" />
+  <img src="https://img.shields.io/badge/Claude_Code-080B11?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex_CLI-080B11?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="Codex CLI" />
+  <img src="https://img.shields.io/badge/Gemini_CLI-080B11?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini CLI" />
+  <img src="https://img.shields.io/badge/Cursor-080B11?style=for-the-badge&logo=cursor&logoColor=FFFFFF" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Signed_Commits-080B11?style=for-the-badge&logo=git&logoColor=F05032" alt="Signed Commits" />
 </p>
 
 <p align="center">
@@ -136,10 +134,10 @@
 ### `04 //` 📡 Comms &amp; Uplinks
 
 <p align="center">
-  <a href="https://www.facebook.com/sourrrkngyn7/"><img src="https://img.shields.io/badge/Facebook-0B0F17?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/sourrrr_kngyn/"><img src="https://img.shields.io/badge/Instagram-0B0F17?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-  <a href="mailto:taipan27.game@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://github.com/toilanguyen2910?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-0B0F17?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Repositories" /></a>
+  <a href="https://www.facebook.com/sourrrkngyn7/"><img src="https://img.shields.io/badge/Facebook-080B11?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/sourrrr_kngyn/"><img src="https://img.shields.io/badge/Instagram-080B11?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="mailto:taipan27.game@gmail.com"><img src="https://img.shields.io/badge/Email-080B11?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://github.com/toilanguyen2910?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-080B11?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Repositories" /></a>
 </p>
 
 <p align="center">
